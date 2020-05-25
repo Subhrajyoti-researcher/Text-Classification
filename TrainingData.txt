@@ -1,0 +1,158 @@
+incorrect benificiary account,wrong_transfer
+wrong account,wrong_transfer
+wrong a/c,wrong_transfer
+wront amount,wrong_transfer
+correct a/c,wrong_transfer 
+correct account,wrong_transfer
+correct payee,wrong_transfer
+incorrect payee,wrong_transfer
+correct a/c,wrong_transfer
+wrong bank account,wrong_transfer
+wrong bank a/c,wrong_transfer
+correct bank account,wrong_transfer
+correct bank a/c,wrong_transfer
+wrong_transfer,wrong_transfer
+Wrong NEFT,wrong_transfer
+Wrong RTGS,wrong_transfer
+wrong neft transfer,wrong_transfer
+wrong rtgs transfer,wrong_transfer
+wrong beneficiary,wrong_transfer
+beneficiary name mismatches,wrong_transfer
+name mismatch,wrong_transfer
+beneficiary details are wrong,wrong_transfer
+incorrect beneficiary,wrong_transfer
+wrongly debited,wrong_transfer
+wrongly credited,wrong_transfer
+wrongly on,wrong_transfer
+wrongly processed,wrong_transfer
+wrongly process,wrong_transfer
+wrongly sent,wrong_transfer
+wrongly verified,wrong_transfer
+wrongly inserted,wrong_transfer
+wrong payment,wrong_transfer
+wrongly,wrong_transfer
+mistaken payments,wrong_transfer
+wrong money transfer,wrong_transfer
+incorrect payee,wrong_transfer
+payee was not correct,wrong_transfer
+payee was wrong,wrong_transfer
+erroneous transfer,wrong_transfer
+wrong transaction,wrong_transfer
+erroneously initiated,wrong_transfer
+correct processed benificiary instead credited payment,wrong_transfer
+wrong amount,recall_excess_tranafer
+excess amount,recall_excess_tranafer
+excess fund,recall_excess_tranafer
+amount incorrect,recall_excess_tranafer
+excess credit,recall_excess_tranafer
+excess transfer,recall_excess_tranafer
+recall excess transfer,recall_excess_tranafer
+recall excess amount,recall_excess_tranafer
+wrongly entered,recall_excess_tranafer
+wrongly enter,recall_excess_tranafer
+amount was wrong,recall_excess_tranafer
+wrong amount,recall_excess_tranafer
+excess amount,recall_excess_tranafer
+excess fund,recall_excess_tranafer
+amount incorrect,recall_excess_tranafer
+excess credit,recall_excess_tranafer
+excess transfer,recall_excess_tranafer
+Instead of,recall_excess_tranafer
+recall excess transfer,recall_excess_tranafer
+recall excess amount,recall_excess_tranafer
+wrongly entered,recall_excess_tranafer
+wrongly enter,recall_excess_tranafer
+amount was wrong,recall_excess_tranafer
+IFSC_Updation update,IFSC_Updation
+ifsc code update,IFSC_Updation
+update ifsc code,IFSC_Updation
+add the ifsc,IFSC_Updation
+updation of ifsc,IFSC_Updation
+updation ifsc,IFSC_Updation
+enabling ifsc,IFSC_Updation
+update our ifsc code,IFSC_Updation
+update ifsc,IFSC_Updation
+update ifscs,IFSC_Updation
+Inclusion of our branch IFSC,IFSC_Updation
+IFSC_Updation update,IFSC_Updation
+ifsc code update,IFSC_Updation
+update ifsc code,IFSC_Updation
+add the ifsc,IFSC_Updation
+updation of ifsc,IFSC_Updation
+updation ifsc,IFSC_Updation
+enabling ifsc,IFSC_Updation
+update our ifsc code,IFSC_Updation
+update ifsc,IFSC_Updation
+update ifscs,IFSC_Updation
+Inclusion of our branch IFSC,IFSC_Updation
+fraud,fraud_transaction
+fraudulent,fraud_transaction
+police complaint,fraud_transaction
+police copy,fraud_transaction
+police case,fraud_transaction
+suspicious account,fraud_transaction
+suspicious activity,fraud_transaction
+fradulent activity,fraud_transaction
+suspicious transaction,fraud_transaction
+fraud,fraud_transaction
+fraud,fraud_transaction
+fraud,fraud_transaction
+fraud,fraud_transaction
+fraud,fraud_transaction
+fir,fraud_transaction
+fir copy,fraud_transaction
+fir report,fraud_transaction
+investigation report,fraud_transaction
+legal action,fraud_transaction
+legal actions,fraud_transaction
+police complaint,fraud_transaction
+police copy,fraud_transaction
+police case,fraud_transaction
+suspicious account,fraud_transaction
+suspicious activity,fraud_transaction
+fradulent activity,fraud_transaction
+fir,fraud_transaction
+fir copy,fraud_transaction
+fir report,fraud_transaction
+investigation report,fraud_transaction
+legal action,fraud_transaction
+legal actions,fraud_transaction
+dual entry,recall_duplicate_transfer
+twice,recall_duplicate_transfer
+duplicate transfer,recall_duplicate_transfer
+duplicate trxns,recall_duplicate_transfer
+duplicate transaction,recall_duplicate_transfer
+duplicate neft recall,recall_duplicate_transfer
+urgent dual entry,recall_duplicate_transfer
+recall duplicate,recall_duplicate_transfer
+recall of duplicate,recall_duplicate_transfer
+duplicate payment,recall_duplicate_transfer
+duplicate entry,recall_duplicate_transfer
+twice entry,recall_duplicate_transfer
+twice debit,recall_duplicate_transfer
+dual entry,recall_duplicate_transfer
+twice,recall_duplicate_transfer
+duplicate transfer,recall_duplicate_transfer
+duplicate trxns,recall_duplicate_transfer
+duplicate transaction,recall_duplicate_transfer
+duplicate neft recall,recall_duplicate_transfer
+urgent dual entry,recall_duplicate_transfer
+recall duplicate,recall_duplicate_transfer
+recall of duplicate,recall_duplicate_transfer
+duplicate payment,recall_duplicate_transfer
+duplicate entry,recall_duplicate_transfer
+twice entry,recall_duplicate_transfer
+twice debit,recall_duplicate_transfer
+two times,recall_duplicate_transfer
+multiple times,recall_duplicate_transfer
+Please kindly remitter share confirm neft,inquiry email
+report money payment transaction pending,inquiry email
+settlement settled recieved,inquiry email,inquiry email
+status request information details query inquiry balance,inquiry email
+statement trxns transfer lien credit update amount transactions,inquiry email
+Please kindly remitter share confirm neft,inquiry email
+report money payment transaction pending,inquiry email
+settlement settled recieved,inquiry email,inquiry email
+status request information details query inquiry balance,inquiry email
+statement trxns transfer lien credit update amount transactions,inquiry email
+please check status,inquiry email
