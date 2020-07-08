@@ -30,4 +30,4 @@ def predict():
         return jsonify({"result":"Something went wrong! Contact with developer team!"})
 
 if __name__ == "__main__":
-    app.run('172.25.1.26',port=8009)
+    app.run('0.0.0.0',port=8000)
